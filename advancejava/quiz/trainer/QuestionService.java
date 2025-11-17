@@ -1,4 +1,4 @@
-package advance_java.quiz_file.Trainer;
+package advancejava.quiz.trainer;
 
 import java.util.Scanner;
 

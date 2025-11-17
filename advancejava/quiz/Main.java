@@ -2,12 +2,12 @@
  * to do later
  * What if multiple trainers want to access the switch case
  */
-package advance_java.quiz_file;
+package advancejava.quiz;
 
 import java.util.Scanner;
 
-import advance_java.quiz_file.Candidates.CandidatesService;
-import advance_java.quiz_file.Trainer.QuestionService;
+import advancejava.quiz.candidates.CandidatesService;
+import advancejava.quiz.trainer.QuestionService;
 
 @SuppressWarnings("unused")
 public class Main {

@@ -1,8 +1,8 @@
-package advance_java.quiz_file.Candidates;
+package advancejava.quiz.candidates;
 
 import java.util.Scanner;
 
-import advance_java.quiz_file.Trainer.QuestionService;
+import advancejava.quiz.trainer.QuestionService;
 
 public class CandidatesService {
     public int score;

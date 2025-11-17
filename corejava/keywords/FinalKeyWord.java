@@ -1,4 +1,4 @@
-package corejava.keywords;
+package keywords;
 
 final class FinalClass {
     int num = 0;

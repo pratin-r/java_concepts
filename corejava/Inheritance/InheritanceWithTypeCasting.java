@@ -1,4 +1,4 @@
-package corejava;
+package Inheritance;
 
 class Employee {
     private String name;

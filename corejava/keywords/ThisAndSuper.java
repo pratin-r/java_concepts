@@ -1,4 +1,4 @@
-package corejava.keywords;
+package keywords;
 /* implementation of this, super keyword and this(), super() method */
 
 class A {

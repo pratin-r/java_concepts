@@ -1,4 +1,5 @@
-package corejava.keywords;
+package keywords;
+
 import java.util.Scanner;
 
 public class ScannerInput {

@@ -32,7 +32,7 @@ class Rectangle extends Shape {
 
 public class ShapeImpl {
     public static void main(String[] args) {
-        Shape s1 = new Rectangle();  // can only access the methods and variable 
+        Shape s1 = new Rectangle();  // can only access the methods and variable of the type mentioned
         s1.area();
         s1.sayHello();
     }

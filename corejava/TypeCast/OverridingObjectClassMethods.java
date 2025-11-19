@@ -1,13 +1,15 @@
-/* IMPORTANT NOTE
+/* 
+
+IMPORTANT NOTE
 
 UPCASTING is done when we want to access methods of super class. Once we dont want to access or if there is any need for us to access the sub class variables or methods, we can DOWNCAST it. 
 
- * It will be really useful in creating projects where there will be a need to up cast the type when we want to access parent class and we can downcast it when there is no need
-*/
+It will be really useful in creating projects where there will be a need to up cast the type when we want to access parent class and we can downcast it when there is no need
 
-/* for user defined class, we need to override methods of Object class like toString(), equals(), hashCode(), clone() etc,. if you are going to use it for displaying, comparing, copying etc 
+For user defined class, we need to override methods of Object class like toString(), equals(), hashCode(), clone() etc,. if you are going to use it for displaying, comparing, copying etc 
 
-* Or else, when we use those methods, we will be getting the default implementation which is written in Object class
+Or else, when we use those methods, we will be getting the default implementation which is written in Object class
+
 */
 
 package TypeCast;

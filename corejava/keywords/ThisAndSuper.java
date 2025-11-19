@@ -1,5 +1,6 @@
-package keywords;
 /* implementation of this, super keyword and this(), super() method */
+
+package keywords;
 
 class A {
     public A() {

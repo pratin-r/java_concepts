@@ -1,6 +1,4 @@
-package Inheritance;
-
-
+package inheritance;
 
 public class AddSubCalc {
 

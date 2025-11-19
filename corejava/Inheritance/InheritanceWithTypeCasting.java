@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 
 class Employee {
     private String name;

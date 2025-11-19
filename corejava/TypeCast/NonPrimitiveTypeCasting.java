@@ -1,8 +1,8 @@
-package TypeCast;
-
 /* IMPORTANT NOTE
  * i) A reference variable can only access variables or methods of THE TYPE MENTIONED ONLY (left side).
  */
+package TypeCast;
+
 class MobilePhone {
     int no1 = 5;
 

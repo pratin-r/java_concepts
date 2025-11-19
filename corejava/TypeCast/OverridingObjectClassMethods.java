@@ -1,5 +1,3 @@
-package TypeCast;
-
 /* IMPORTANT NOTE
 
 UPCASTING is done when we want to access methods of super class. Once we dont want to access or if there is any need for us to access the sub class variables or methods, we can DOWNCAST it. 
@@ -11,6 +9,9 @@ UPCASTING is done when we want to access methods of super class. Once we dont wa
 
 * Or else, when we use those methods, we will be getting the default implementation which is written in Object class
 */
+
+package TypeCast;
+
 public class OverridingObjectClassMethods {
 
     String firstName;
@@ -85,6 +86,6 @@ public class OverridingObjectClassMethods {
         OverridingObjectClassMethods obj2 = new OverridingObjectClassMethods("Varshni", "RR", 22);
         System.out.println(obj1.equals(obj2)); // obj2 is first up casted and then it is down casted
         System.out.println(obj1.hashCode());
-        
+
     }
 }

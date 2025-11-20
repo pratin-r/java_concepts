@@ -1,4 +1,3 @@
-package advancejava.anonymousinnerclass;
 /* 
 
 1) An anonymous class is a local class without a name that is declared and instantiated in a single expression. Anonymous class EXTENDS public class (class which has main method). So, when java file gets compiled, the class file will be named after public class name (check point 3).
@@ -10,7 +9,9 @@ package advancejava.anonymousinnerclass;
             AnonymousClassImpl$1.class and AnonymousClassImpl$2.class is anonymous class created
 
     The name of anonymous class is AnonymousClassImpl$1.class or AnonymousClassImpl$2.class because the code contains an anonymous class that extends AnonymousClassImpl
+    
 */
+package advancejava.anonymousinnerclass;
 
 class Show {
     void displayShow() {

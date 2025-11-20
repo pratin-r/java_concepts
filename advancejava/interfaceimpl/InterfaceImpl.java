@@ -1,11 +1,11 @@
-package advancejava.interfaceimpl;
-
 /* 
  * 1) Variables inside interface are final and static in nature
  * 2) Methods inside interface are public and abstract in nature
  * 3) We can also create default, static and private methods inside interface
  * 4) default methods allows us to create methods implementation
  */
+package advancejava.interfaceimpl;
+
 interface Mobile {
     int NoOfSimSlot = 1;
 

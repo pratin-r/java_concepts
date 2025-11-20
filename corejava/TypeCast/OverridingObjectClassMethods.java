@@ -1,6 +1,6 @@
 /* 
 
-IMPORTANT NOTE
+---   IMPORTANT NOTE   ---
 
 UPCASTING is done when we want to access methods of super class. Once we dont want to access or if there is any need for us to access the sub class variables or methods, we can DOWNCAST it. 
 

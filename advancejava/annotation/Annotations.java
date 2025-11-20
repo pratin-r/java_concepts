@@ -1,5 +1,3 @@
-package advancejava.annotation;
-
 /*
  * 1) Annotations are a powerful feature introduced in Java 5 that allows you to
  * add metadata to your code. Annotations provide additional information about
@@ -39,6 +37,7 @@ package advancejava.annotation;
     iii) @SuppressWarnings
     iv) @FunctionalInterface
 */
+package advancejava.annotation;
 
 // user defined annotation
 

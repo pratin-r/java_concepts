@@ -1,6 +1,7 @@
 package advancejava.enumeration;
 
 /*  
+
 1) enum is a special data type that represents a fixed set of constants. 
 
 2) It is used to define a collection of related values that are known at compile time and are not expected to change during program execution. 
@@ -11,6 +12,7 @@ package advancejava.enumeration;
     ii) you cannot create object for enum. the reason why constructors exist is to associate the value or data passed inside the constructor with the constants.
 
 5) The constant values should be present on the top. You cant create variables on top and keep the constants below it.
+
 */
 
 enum Days {

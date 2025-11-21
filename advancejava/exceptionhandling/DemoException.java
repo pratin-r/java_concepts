@@ -6,7 +6,7 @@ class InvalidAgeException extends Exception {
     }
 }
 
-public class Exercise {
+public class DemoException {
     public static void checkAge(int age) throws InvalidAgeException {
         try {
             if (age < 18) {

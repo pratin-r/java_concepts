@@ -1,4 +1,0 @@
-i) -> one error that i encountered is NoSuchError which happened due to me using Class Mobile and Class OnePlus in two different java files and the methods I defined was different in those classes.
-   -> So i changed the class name in another file so that all class names are different.
-
-2) In Java, non-static blocks (also known as instance initialization blocks) are executed when an instance of the class is created, after the constructor is called but before the constructor body runs.

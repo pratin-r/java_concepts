@@ -1,1 +1,1 @@
-this repo contains important concepts that are necessary while learning Java
+This repository contains important concepts ive learnt while learning Java

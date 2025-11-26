@@ -27,9 +27,8 @@ public class AnnotationHandler {
             // Invoke the method dynamically
             method.invoke(clazz.getDeclaredConstructor().newInstance());
 
-        } catch (ClassNotFoundException | NoSuchMethodException | IllegalAccessException
+        } catch (ClassNotFoundException | NoSuchMethodException | IllegalAccessException // multi catch expression
                 | InstantiationException | java.lang.reflect.InvocationTargetException e) {
-
             e.printStackTrace();
         }
     }

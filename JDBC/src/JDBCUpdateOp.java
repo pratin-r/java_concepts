@@ -1,4 +1,4 @@
-package JDBC.src;
+package jdbc.src;
 import java.sql.*;
 
 public class JDBCUpdateOp {
